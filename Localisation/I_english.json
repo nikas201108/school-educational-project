@@ -1,0 +1,22 @@
+{
+    "title": "Education Control App",
+	"take_test": "Take a test",
+	"read": "Read notes",
+	"settings": "Settings",
+	"faq": "FAQ",
+	"exit_faq": "Close FAQ",
+	"credits": "Credits",
+	"exit_credits": "Close credits",
+	"exit_notes": "Close notes",
+	"exit_inspector": "Close file inspector",
+	"start_test": "Start Test",
+	"generate_test": "Generate Test",
+	"no_data": "Unfortunately, we were unable to find any available tests. If we manage to do so, we will display them in the form of a list.",
+	"right_answer": "Right Answer",
+	"empty": "Nothing",
+	"end_test": "End test",
+	"exit_test": "Exit",
+	"apply_settings": "Apply Settings",
+	"setting_applied_info": "The settings will be applied on restart.",
+	"choose_another_theme": "You can choose a different theme for the app by clicking on the circle in the upper-left corner"
+}
